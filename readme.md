@@ -1,8 +1,17 @@
-# cloud-to-butt-mozilla
+# not-alt-right-mozilla
 
-Derived from the work of Steven Frank's [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt) Chrome extension.
+Derived from the work of DaveRandom's [cloud-to-butt](https://github.com/DaveRandom/cloud-to-butt-mozilla)
+Firefox extension.
 
+Created so that the Neo-Nazis can't hide from Firefox users. Plus, Chrome users shouldn't get to have all the fun :)
 
 ## Installing
 
-[Download it from Firefox Add-ons](https://addons.mozilla.org/en/firefox/addon/cloud-to-butt/)
+For the time being, go ahead and install the .xpi file directly.
+When I have some time (soon&trade;) I will get this add-on signed and up
+onto [AOM](addons.mozilla.com).
+
+## To do
+
+1. Transition to Web Extension for compatibilty with future Firefox versions
+as Add-ons are slated to be deprecated by the end of 2017.

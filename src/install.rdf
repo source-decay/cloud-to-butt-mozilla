@@ -3,15 +3,15 @@
   <RDF:Description about="urn:mozilla:install-manifest">
 
     <!-- GUID and type -->
-    <em:id>cloud-to-butt@github.com</em:id>
+    <em:id>not-alt-right-mozilla@github.com</em:id>
     <em:type>2</em:type>
 
     <!-- Extension details -->
-    <em:name>Cloud To Butt</em:name>
-    <em:description>Replaces the text 'the cloud' with 'my butt'.</em:description>
-    <em:creator>Steven Frank</em:creator>
-    <em:developer>Chris Wright</em:developer>
-    <em:homepageURL>https://github.com/DaveRandom/cloud-to-butt-mozilla</em:homepageURL>
+    <em:name>Not Alt-Right</em:name>
+    <em:description>Replaces the text 'alt-right' with 'neo Nazi'.</em:description>
+    <em:creator>Josh Taylor</em:creator>
+    <em:developer>Josh Taylor</em:developer>
+    <em:homepageURL>https://github.com/source-decay/not-alt-right-mozilla</em:homepageURL>
 
     <!-- Current version -->
     <em:version>1.0</em:version>
@@ -21,7 +21,7 @@
       <RDF:Description>
         <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
         <em:minVersion>4.0</em:minVersion>
-        <em:maxVersion>*</em:maxVersion>
+        <em:maxVersion>100</em:maxVersion>
       </RDF:Description>
     </em:targetApplication>
 
