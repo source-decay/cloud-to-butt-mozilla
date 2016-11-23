@@ -14,7 +14,7 @@ about:config > I Understand the Risks > xpinstall.signatures.required is **_true
 
 For the time being, go ahead and install the .xpi file directly.
 When I have some time (soon&trade;) I will get this add-on signed and up
-onto [AOM](addons.mozilla.com).
+onto [AOM](https://addons.mozilla.com/en-US/firefox/extensions).
 
 ## To do
 
