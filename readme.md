@@ -15,13 +15,13 @@ Neo-Nazis don't seem to be able to spell very well these days. This add-on (usin
 
 Node is only being used for Gulp and web-ext. These are option but recommended - you are still able to create the XPI file manually if you don't want to download dependencies. Gulp is used to build the Manifest and JS into an XPI file.
 
-1. Clone this project
+1. Clone this project to your local machine
 
-2. ```npm install```
+2. run ```npm install```
 
 3. Make any changes you may want to make
 
-4. ```gulp```
+4. run ```gulp``` (optional)
 
 ## To do
 
