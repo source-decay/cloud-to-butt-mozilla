@@ -1,0 +1,17 @@
+{
+
+	"manifest_version": 2,
+	"name": "not-alt-right",
+	"version": "1.0",
+
+	"description": "Replaces all occurances of alt-right with neo-nazi",
+	"homepage_url":"https://github.com/source-decay/not-alt-right-mozilla",
+
+	"content_scripts": [
+		{
+			"matches": ["<all_urls>"],
+			"js": [ "not-alt-right.js" ]
+		}
+	]
+
+}
